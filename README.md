@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou o Gustavo 👋
 
-<!--
-**Gpnepomuceno/Gpnepomuceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Engenharia de Produção  
+💻 Supervisor Comercial na Braip, implementando cultura de sucesso do cliente  
+🚀 Apaixonado por tecnologia e em transição para a área de Programação
 
-Here are some ideas to get you started:
+### 📬 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_nep)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavonepomuceno9@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nepomuceno-1b8751162/)
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpnepomuceno&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gpnepomuceno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
