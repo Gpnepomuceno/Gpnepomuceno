@@ -1,8 +1,8 @@
 # Olá! Eu sou o Gustavo 👋
 
 🎓 Formado em Engenharia de Produção  
-💻 Supervisor Comercial na Braip, implementando cultura de sucesso do cliente  
-🚀 Apaixonado por tecnologia e em transição para a área de Programação
+💻 Supervisor na Braip
+🚀 Apaixonado por tecnologia e em transição para a área
 
 ### 📬 Contato
 
