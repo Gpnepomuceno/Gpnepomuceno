@@ -1,7 +1,9 @@
 # Olá! Eu sou o Gustavo 👋
 
 🎓 Formado em Engenharia de Produção  
+
 💻 Supervisor na Braip
+
 🚀 Apaixonado por tecnologia e em transição para a área
 
 ### 📬 Contato
