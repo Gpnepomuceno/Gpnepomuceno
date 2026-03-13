@@ -2,9 +2,9 @@
 
 🎓 Formado em Engenharia de Produção  
 
-💻 Supervisor na Braip
+💻 Supervisor do time de Processos, Inteligência e Dados na Braip
 
-🚀 Apaixonado por tecnologia e em transição para a área
+🚀 Apaixonado por tecnologia
 
 ### 📬 Contato
 
